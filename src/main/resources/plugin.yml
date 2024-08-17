@@ -1,0 +1,15 @@
+name: DeluxeWand
+main: me.sedattr.deluxewand.DeluxeWand
+softdepend:
+  - BentoBox
+  - WorldGuard
+
+author: SedatTR
+version: 1.0
+api-version: 1.13
+
+commands:
+  deluxewand:
+    description: The general BuildersWand command.
+    aliases:
+      - builderswand

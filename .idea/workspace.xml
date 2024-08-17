@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f5bf29fb-4790-4362-9353-939b31cf3797" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/sedattr/deluxewand/Commands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/sedattr/deluxewand/DeluxeWand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/sedattr/deluxewand/enums/ParticleShapeHidden.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/sedattr/deluxewand/events/WandEvents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/sedattr/deluxewand/helper/WorldGuardAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/sedattr/deluxewand/items/Wand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/sedattr/deluxewand/manager/WandManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/sedattr/deluxewand/utilities/MessageUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/sedattr/deluxewand/utilities/ParticleUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/messages.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/wands.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2kmWFhR7648KZc3SND1kIgyn93k" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.DeluxeWand [package].executor": "Run",
+    "Maven.DeluxeWand [test].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Sedat/Desktop/Minecraft Projects/DeluxeWand/src/main/resources",
+    "onboarding.tips.debug.path": "C:/Users/Sedat/Desktop/Minecraft Projects/DeluxeWand/src/main/java/me/sedattr/deluxewand/DeluxeWand/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Sedat\Desktop\Minecraft Projects\DeluxeWand\src\main\resources" />
+      <recent name="C:\Users\Sedat\Desktop\Minecraft Projects\DeluxeWand\src\main\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="me.sedattr.deluxewand.utilities" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5bf29fb-4790-4362-9353-939b31cf3797" name="Changes" comment="" />
+      <created>1723889130688</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723889130688</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/me/sedattr/deluxewand/DeluxeWand/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

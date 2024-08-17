@@ -1,0 +1,20 @@
+1:
+  material: BLAZE_ROD
+  name: "&eBuilder's Wand"
+  lore:
+    - "&7Durability: &f%durability% uses"
+    - ""
+    - "&6&lLEGENDARY"
+  maxSize: 8
+  consumeItems: true
+  durability:
+    amount: 130
+    enabled: true
+  particles:
+    enabled: true
+    type: FLAME
+    count: 3
+  blacklist:
+    - BEDROCK
+  whitelist:
+    - DIAMOND_BLOCK

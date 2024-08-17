@@ -1,0 +1,3 @@
+particle:
+  render_time: 2
+  render_for_all_players: false
